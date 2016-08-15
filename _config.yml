@@ -1,4 +1,3 @@
-layout_spectrum: 0.40201931167393923
 typography_spectrum: 0.3403957358095795
 color:
   brandStrength: 0.3975959396921098
@@ -6,9 +5,11 @@ color:
   saturation: 0.5004578353837132
   rhythmicContrast: 0.3952332129701972
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.40201931167393923
 name: danielnauck
+title: Hello
