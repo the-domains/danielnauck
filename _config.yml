@@ -11,6 +11,9 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.40201931167393923
+author:
+  name: Daniel Nauck
+  email: daniel_nauck@me.com
 name: danielnauck
 navigation:
   - name: about
