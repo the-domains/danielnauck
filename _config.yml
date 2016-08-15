@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.40201931167393923
 name: danielnauck
+navigation:
+  - name: about
+    url: 'http:danielnauck.com'
+    type: external
 title: Hello
 description: und Danke
